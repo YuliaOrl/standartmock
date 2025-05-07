@@ -8,5 +8,5 @@ Spring Boot приложение банковского сервиса, кото
 
 - Мониторинг метрик через Spring Actuator
 - Хранение и обработка метрик с использованием Prometheus
-- Визуализация метрик в <a target="_blank" href="https://github.com/YuliaOrl/standartmock/blob/master/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%20Prometheus-Grafana_StandartMock.jpg/">*Grafana*</a>
+- Визуализация метрик в <a target="_blank" href="https://github.com/YuliaOrl/standartmock/blob/master/Metrics_Prometheus_Grafana_StandartMock.jpg/">*Grafana*</a>
 - Документация API через Swagger
